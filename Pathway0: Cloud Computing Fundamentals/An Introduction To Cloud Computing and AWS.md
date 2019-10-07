@@ -66,7 +66,7 @@ Harsh has just started learning Cloud Computing. He wants to understand the diff
 
 **This is Platform as a Service(PaaS)**
 
-**Option 3: **‘We have the full-fledged application ready on cloud, you can use it as a service’. **This is Software as a Service. (SaaS).**
+**Option 3:** ‘We have the full-fledged application ready on cloud, you can use it as a service’. **This is Software as a Service. (SaaS).**
 
 **Deployment Models in Cloud Computing:**
 
