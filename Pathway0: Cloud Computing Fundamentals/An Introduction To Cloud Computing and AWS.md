@@ -6,7 +6,7 @@ In simpler words, On principle the system of cloud computing is very similar to 
 
 Today, Cloud power majority of IT sectors, right from businesses to finance, real estate to retail. 
 
-In general, a user has access to data, applications and storage that needs not be stored on the user’s computer. **Cloud delivers computing, storage and applications as a service, and not a product. **Cloud accomplishes increasing computing capabilities without needing a new infrastructure. Cloud Computing also eliminates the need to make large upfront investments in hardware and management of hardware. A number of resources can be obtained (as many as needed) in real time based on **pay as you go** mode of payment. The **pay as you** go enables users to only pay for the services they are using instead of pre paying for estimated resource usage. 
+In general, a user has access to data, applications and storage that needs not be stored on the user’s computer. **Cloud delivers computing, storage and applications as a service, and not a product.** Cloud accomplishes increasing computing capabilities without needing a new infrastructure. Cloud Computing also eliminates the need to make large upfront investments in hardware and management of hardware. A number of resources can be obtained (as many as needed) in real time based on **pay as you go** mode of payment. The **pay as you** go enables users to only pay for the services they are using instead of pre paying for estimated resource usage. 
 
 **History of AWS:**
 
@@ -20,11 +20,11 @@ Cloud facilitates a number of benefits.
 
 
 
-*   **Allows Scalability of applications: **An application using cloud can be scaled up and down as and when needed. For example, During the sale season, Amazon (or any other online shopping site) scales up the number of servers running for managing the large number of users walking through the website. During the off-season the company scales the servers down. This scalability can be achieved very easily with Cloud. 
-*   **Pay as you Go: **Cloud allows a user to pay for the services upon its usage. The user need not pay well in advance based on some estimate.
-*   **Dynamic Capacity: **Cloud entirely eliminates the guessing of infrastructure or capacity needed because it avails services at the real time, which can be scaled.
-*   **Increased Speed and Performance: **Cloud enables much increased speed and performance because it utilizes the resources of the cloud itself rather than the local machine.
-*   **Go global in minutes : **Applications can be deployed on cloud in just a few clicks. (in multiple regions around the world)
+*   **Allows Scalability of applications:** An application using cloud can be scaled up and down as and when needed. For example, During the sale season, Amazon (or any other online shopping site) scales up the number of servers running for managing the large number of users walking through the website. During the off-season the company scales the servers down. This scalability can be achieved very easily with Cloud. 
+*   **Pay as you Go:** Cloud allows a user to pay for the services upon its usage. The user need not pay well in advance based on some estimate.
+*   **Dynamic Capacity:** Cloud entirely eliminates the guessing of infrastructure or capacity needed because it avails services at the real time, which can be scaled.
+*   **Increased Speed and Performance:** Cloud enables much increased speed and performance because it utilizes the resources of the cloud itself rather than the local machine.
+*   **Go global in minutes :** Applications can be deployed on cloud in just a few clicks. (in multiple regions around the world)
 
 **Types of cloud computing:**
 
@@ -72,12 +72,9 @@ Harsh has just started learning Cloud Computing. He wants to understand the diff
 
 
 
-1. **Cloud (Public) **
+1. **Cloud (Public)**
 
-    A cloud-based application is fully deployed in the cloud and all parts of the application run in the cloud. Applications in the cloud have either been created in the cloud or have been migrated from an existing infrastructure to take advantage of the benefits of cloud
-
-
-    Computing.
+    A cloud-based application is fully deployed in the cloud and all parts of the application run in the cloud. Applications in the cloud have either been created in the cloud or have been migrated from an existing infrastructure to take advantage of the benefits of cloud Computing.
 
 2. **Hybrid**
 
@@ -85,8 +82,5 @@ Harsh has just started learning Cloud Computing. He wants to understand the diff
 
 3. **On-Premises (Private)**
 
-    The deployment of resources on-premises, using virtualization and resource management tools, is sometimes called the “private cloud.” On-premises deployment doesn’t provide many of the benefits of cloud computing but is sometimes sought for its ability to provide dedicated resources. In most cases this deployment model is the
-
-
-    same as legacy IT infrastructure while using application management and virtualization technologies to try and increase resource utilization. 
+    The deployment of resources on-premises, using virtualization and resource management tools, is sometimes called the “private cloud.” On-premises deployment doesn’t provide many of the benefits of cloud computing but is sometimes sought for its ability to provide dedicated resources. In most cases this deployment model is the same as legacy IT infrastructure while using application management and virtualization technologies to try and increase resource utilization. 
 
