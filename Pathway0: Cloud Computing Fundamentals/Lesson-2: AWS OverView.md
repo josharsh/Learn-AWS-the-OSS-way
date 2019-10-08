@@ -12,4 +12,4 @@ Today known companies and brands line reddit, pinterest and Netflix use AWS for 
 
     Using the traditional capacity planning always involves keeping extra unused capacity based on the pageviews, or traffic. In traditional capacity planning, at times the needs go higher than the allotted capacity which results in poor user experience due to increased traffic and underwhelming capacity to hold and manage the traffic. But AWS enables dynamic capacity planning which does not require any extra wastage of capacity and allows scaling up and down of capacity as and when needed. Suppose there is a large demand, so you can simply scale your capacity up and bring it down when the traffic is down. 
 
-![drawing](https://docs.google.com/a/google.com/drawings/d/12345/export/png)
+![drawing](https://github.com/josharsh/-learn-AWS-the-OSS-way/blob/master/Resources/capacityplanning.PNG)
