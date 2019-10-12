@@ -61,7 +61,7 @@ Some of the compute Services are:
     You can use AWS Lambda to run your code in response to events, such as changes to data in an Amazon S3 bucket or an Amazon DynamoDB table; to run your code in response to HTTP requests using Amazon API Gateway; or invoke your code using API calls made using AWS SDKs.
 
 
-**3: AWS Database Services **
+**3: AWS Database Services**
 
 Purpose-built databases for all your application needs Managed Relational, Non-Relational, Data Warehouse, In-Memory Data Store, and Graph Databases.
 
