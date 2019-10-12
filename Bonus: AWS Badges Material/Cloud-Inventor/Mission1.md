@@ -62,3 +62,35 @@ Every time a HOST sends a POST login request, if the user is authenticated and a
 A cookie is basically an ID card for the user. So next time, when the user refreshes the page, or basically requests anything from the SERVER, along with the request, the cookie is also sent from the HOST to SERVER so that the SERVER verifies the identity for the request.
 
 Now, since the Internet is completely Open, and all information is sent in text which shared networks. This might make is easy for hacker to dive in the network and gain unauthorised access. To prevent this, websites use a safe communication channel using SSL which stands for** Secure Sockets Layer **and **Transport Layer Security. **These security layer just cover our communication channel to prevent unauthorised access. These are represented by the little **green lock** appearing on the address bar next to **https.** The safe websites are given a Digital Certificate, failing to own which the browser prompts a security warning to the user. 
+
+## TASK 2 : COMPUTER FUNDAMENTALS:
+
+**What is a computer?**
+
+A computer is an electronic device that has the ability to store, retrieve and process data. A computer takes data as input from the user and processes the data inputs using a set of instructions understood by the computer (called commands) and conducts an action and gives output. 
+
+**How Do Computers Communicate?**
+
+Transistor circuits help computers store data. Since these microscopic switches have only two states 0 and 1, so computers understand and only understand the language of Binary. 
+
+Basically every data can be represented as binary
+
+**For Digits**: Binary based number system (e.g: 9 can be represented as 1001 in binary)
+
+**For text**: Each letter corresponds to a number and each number has an associated binary value so a text is a bunch of binary values (e.g 1001100 101010101 1010101)
+
+**For Images: **Each image is constituted of pixels, with each pixel having some intensity or RGB value which can be broken down into binary.
+
+**For Videos:** Pixels in a  Frame per second can be represented in Binary
+
+**For Sound:** The waveform representation allows to assign a decimal value to amplitude and later correspond it to an equivalent binary.
+
+
+## TASK 3 : EVOLUTION OF COMPUTER NETWORKING:
+
+Originally, computers were treated as larger complex machines and were operated by specially trained people. After WAN was discovered in 1965 by Thomas Marill and Lawrence Roberts who were the researchers at MIT, the interest started rapidly evolving. 
+
+Over the course of time, the high-performance computing (HPC) systems became very powerful, agile and less costly. Cloud Computing played an important role here. Cloud Computing is the on demand delivery of compute power and is the future of networking. Cloud Computing has accelerated the evolution of high performance computing by allowing the self-service provisioning of IT services in minutes. 
+
+
+
