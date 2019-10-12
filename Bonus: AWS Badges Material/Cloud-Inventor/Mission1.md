@@ -61,7 +61,7 @@ Every time a HOST sends a POST login request, if the user is authenticated and a
 
 A cookie is basically an ID card for the user. So next time, when the user refreshes the page, or basically requests anything from the SERVER, along with the request, the cookie is also sent from the HOST to SERVER so that the SERVER verifies the identity for the request.
 
-Now, since the Internet is completely Open, and all information is sent in text which shared networks. This might make is easy for hacker to dive in the network and gain unauthorised access. To prevent this, websites use a safe communication channel using SSL which stands for** Secure Sockets Layer **and **Transport Layer Security. **These security layer just cover our communication channel to prevent unauthorised access. These are represented by the little **green lock** appearing on the address bar next to **https.** The safe websites are given a Digital Certificate, failing to own which the browser prompts a security warning to the user. 
+Now, since the Internet is completely Open, and all information is sent in text which shared networks. This might make is easy for hacker to dive in the network and gain unauthorised access. To prevent this, websites use a safe communication channel using SSL which stands for **Secure Sockets Layer** and **Transport Layer Security.** These security layer just cover our communication channel to prevent unauthorised access. These are represented by the little **green lock** appearing on the address bar next to **https.** The safe websites are given a Digital Certificate, failing to own which the browser prompts a security warning to the user. 
 
 ## TASK 2 : COMPUTER FUNDAMENTALS:
 
@@ -79,7 +79,7 @@ Basically every data can be represented as binary
 
 **For text**: Each letter corresponds to a number and each number has an associated binary value so a text is a bunch of binary values (e.g 1001100 101010101 1010101)
 
-**For Images: **Each image is constituted of pixels, with each pixel having some intensity or RGB value which can be broken down into binary.
+**For Images:** Each image is constituted of pixels, with each pixel having some intensity or RGB value which can be broken down into binary.
 
 **For Videos:** Pixels in a  Frame per second can be represented in Binary
 
