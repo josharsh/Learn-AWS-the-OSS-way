@@ -7,4 +7,4 @@ You will learn about:
 * Types of Cloud Computing
 * Deployment Models of Cloud Computing
 
-** For any Contribution, see Contribuing guidelines** 
+**For any Contribution, see Contribuing guidelines** 
